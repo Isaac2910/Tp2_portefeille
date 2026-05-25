@@ -1,0 +1,23 @@
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+
+.vscode/
+
+# Spyder
+.spyproject/
+.spyproject
+
+# PyCharm
+.idea/
+
+
+
+# Logs
+*.log
+
+.DS_Store
+Thumbs.db
